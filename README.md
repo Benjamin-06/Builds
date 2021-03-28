@@ -1,2 +1,1 @@
-# Builds
-Hier befinden sich ausführbare Spiele.
+Eine ausführbare Version mit allen nötigen Datein des Spieles "AmongYou".
